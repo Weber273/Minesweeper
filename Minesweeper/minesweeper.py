@@ -10,7 +10,5 @@ class MinesweeperGame:
     def plot_grid(mines, x, y):
         pass
 
-    
-
 game = MinesweeperGame(5, 10, 10)
 print(game.mines)
